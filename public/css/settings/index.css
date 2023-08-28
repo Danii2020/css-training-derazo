@@ -1,0 +1,12 @@
+:root {
+    --gray-1: #F0F0F0;
+    --black-1: #222;
+    --white: #FFF;
+
+    --main-color: var(--gray-1);
+    --main-text-color: var(--black-1);
+    --accent-color: var(--white);
+    --accent-bg-color: var(--black-1);
+
+    --transition: , transform 250ms ease-in
+}
